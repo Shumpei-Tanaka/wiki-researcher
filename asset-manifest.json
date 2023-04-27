@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wiki-researcher/static/css/main.073c9b0a.css",
+    "main.js": "/wiki-researcher/static/js/main.f2431fc2.js",
+    "static/js/787.4cdd6691.chunk.js": "/wiki-researcher/static/js/787.4cdd6691.chunk.js",
+    "static/media/logo.svg": "/wiki-researcher/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wiki-researcher/index.html",
+    "main.073c9b0a.css.map": "/wiki-researcher/static/css/main.073c9b0a.css.map",
+    "main.f2431fc2.js.map": "/wiki-researcher/static/js/main.f2431fc2.js.map",
+    "787.4cdd6691.chunk.js.map": "/wiki-researcher/static/js/787.4cdd6691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f2431fc2.js"
+  ]
+}
